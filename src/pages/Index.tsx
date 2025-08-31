@@ -39,9 +39,9 @@ const Index = () => {
   }
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background safe-area-inset">
       <Header name={userName} onNameChange={setUserName} />
-      <div className="p-4 flex items-center justify-center" style={{ minHeight: 'calc(100vh - 120px)' }}>
+      <div className="p-3 sm:p-4 lg:p-6 flex items-center justify-center" style={{ minHeight: 'calc(100vh - 80px)' }}>
         <QuestionCard
           question={sampleQuestion}
           options={sampleOptions}
