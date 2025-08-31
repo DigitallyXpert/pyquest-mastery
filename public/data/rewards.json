@@ -1,0 +1,34 @@
+{
+  "rewards": [
+    {
+      "minScore": 5,
+      "message": "🌟 You're my favorite notification! Perfect score achieved!",
+      "badge": "🏆 Python Master",
+      "level": "expert"
+    },
+    {
+      "minScore": 4,
+      "message": "💫 You make my code compile with happiness! Almost perfect!",
+      "badge": "🥇 Python Pro",
+      "level": "advanced"
+    },
+    {
+      "minScore": 3,
+      "message": "🎯 You're the semicolon to my statement! Great job!",
+      "badge": "🥈 Python Enthusiast",
+      "level": "intermediate"
+    },
+    {
+      "minScore": 2,
+      "message": "💝 You're my favorite syntax error! Keep practicing!",
+      "badge": "🥉 Python Learner",
+      "level": "beginner"
+    },
+    {
+      "minScore": 0,
+      "message": "🌱 Every expert was once a beginner! Try again!",
+      "badge": "📚 Python Starter",
+      "level": "starter"
+    }
+  ]
+}

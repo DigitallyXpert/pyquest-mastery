@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the correct way to define a function in Python?",
+      "options": [
+        "function myFunc():",
+        "def myFunc():",
+        "define myFunc():",
+        "func myFunc():"
+      ],
+      "correctAnswer": 1,
+      "tip": "💡 Python uses 'def' keyword followed by function name and parentheses!"
+    },
+    {
+      "id": 2,
+      "question": "Which data type is used to store multiple items in Python?",
+      "options": [
+        "string",
+        "integer",
+        "list",
+        "boolean"
+      ],
+      "correctAnswer": 2,
+      "tip": "🚀 Lists are like containers that can hold multiple values!"
+    },
+    {
+      "id": 3,
+      "question": "What symbol is used for comments in Python?",
+      "options": [
+        "//",
+        "#",
+        "/*",
+        "--"
+      ],
+      "correctAnswer": 1,
+      "tip": "📝 The hash symbol makes Python ignore everything after it on that line!"
+    },
+    {
+      "id": 4,
+      "question": "How do you print 'Hello World' in Python?",
+      "options": [
+        "echo('Hello World')",
+        "print('Hello World')",
+        "console.log('Hello World')",
+        "printf('Hello World')"
+      ],
+      "correctAnswer": 1,
+      "tip": "🎯 The print() function is your best friend for displaying output!"
+    },
+    {
+      "id": 5,
+      "question": "What is the correct way to create a variable in Python?",
+      "options": [
+        "var x = 5",
+        "int x = 5",
+        "x = 5",
+        "create x = 5"
+      ],
+      "correctAnswer": 2,
+      "tip": "✨ Python is dynamic - just assign a value and it figures out the type!"
+    }
+  ]
+}
